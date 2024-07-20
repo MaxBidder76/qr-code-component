@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    font-family: "outfit", sans-serif;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+h1 {text-align: center; color:hsl(218, 44%, 22%);}
+p {text-align: center; color: hsl(220, 15%, 55%); font-size: 15px;}
+img {border-radius: 5%;}
